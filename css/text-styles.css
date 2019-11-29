@@ -1,0 +1,23 @@
+h1, h2, h3, h4, h5, h6 {
+    color: #FFFFFF;
+}
+
+.title {
+    font-size: 72px;
+    line-height: 83px;
+    text-transform: uppercase;
+}
+.text-center {
+    text-align: center;
+    font-size: 40px;
+    line-height: 46px;
+}
+
+.half {
+    font-size: 18px;
+    line-height: 140%;
+}
+
+.borov {
+    color: #BD926A;
+}
