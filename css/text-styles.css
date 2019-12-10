@@ -7,6 +7,18 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 83px;
     text-transform: uppercase;
 }
+@media(max-width: 1440px) {
+    .title {
+        font-size: 50px;
+        line-height: 60px;
+    }
+}
+@media(max-width:991px){
+    .title {
+        font-size: 35px;
+        line-height: 50px;
+    }
+}
 .text-center {
     text-align: center;
     font-size: 40px;
